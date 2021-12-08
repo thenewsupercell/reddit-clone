@@ -58,7 +58,7 @@ const Navbar = ({
         display={user ? 'block' : ['none', 'block']}
         fontSize={['1.3rem', '2.25rem']}
       >
-        weddit
+        Casual Conversation
       </Heading>
       <HStack>
         <Menu>
